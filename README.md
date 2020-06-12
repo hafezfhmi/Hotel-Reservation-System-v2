@@ -20,6 +20,6 @@ A Hotel Reservation System made with Java.
    <img src="How_to_use/4.JPG" width="500px">
 
 
-6. The program will generate/overwrite customerDetails.txt and managerReceipt.txt that contains the entered data.
+6. The program will generate customerDetails.txt and managerReceipt.txt that contains the entered data.
    <img src="How_to_use/5.JPG" width="500px">
    <img src="How_to_use/6.JPG" width="500px">
